@@ -1,5 +1,8 @@
 ### Well hello there!
 
+Another clone & push
+-git clone
+
 These are the new changes - Hello Stupid world !!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
